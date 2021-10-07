@@ -1,6 +1,5 @@
 # hello-world
 
-
 Hello fellow Monkeys!
 
 My name is Armand and I am a duale student, which means I work halftime and study the rest of the time.
